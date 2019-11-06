@@ -1,0 +1,10 @@
+
+]squid:UselessImportCheck"2Remove this unused import 'java.util.Enumeration'.(»îÜ®8¹ğÏ…ã-
+bsquid:UselessImportCheck"2Remove this unused import 'feign.RequestTemplate'.(«ÀßŸşÿÿÿÿ8¹ğÏ…ã-
+ˆsquid:UselessImportCheck"]Remove this unused import 'org.springframework.web.context.request.ServletRequestAttributes'.(şĞ‘Ÿ8¹ğÏ…ã-
+usquid:UselessImportCheck"JRemove this unused import 'org.springframework.context.annotation.Import'.(ˆÈè8÷é¦…ã-
+squid:UselessImportCheck"VRemove this unused import 'org.springframework.web.context.request.RequestAttributes'.(¢“…°8¹ğÏ…ã-
+msquid:UselessImportCheck"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8¹ğÏ…ã-
+‰squid:UselessImportCheck"YRemove this unused import 'org.springframework.session.web.http.SessionRepositoryFilter'.(äóÑşÿÿÿÿ8¹ğÏ…ã-
+„squid:UselessImportCheck"YRemove this unused import 'org.springframework.web.context.request.RequestContextHolder'.(ºãê8¹ğÏ…ã-
+esquid:UselessImportCheck"5Remove this unused import 'feign.RequestInterceptor'.(–¾òùÿÿÿÿ8Á”Ğ…ã-

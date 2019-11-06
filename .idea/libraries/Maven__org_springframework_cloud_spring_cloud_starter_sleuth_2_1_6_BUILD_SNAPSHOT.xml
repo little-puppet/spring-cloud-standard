@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-starter-sleuth:2.1.6.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://E:/repository/my/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.6.BUILD-SNAPSHOT/spring-cloud-starter-sleuth-2.1.6.BUILD-20191102.154723-17.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/repository/my/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.6.BUILD-SNAPSHOT/spring-cloud-starter-sleuth-2.1.6.BUILD-20191102.154723-17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/repository/my/org/springframework/cloud/spring-cloud-starter-sleuth/2.1.6.BUILD-SNAPSHOT/spring-cloud-starter-sleuth-2.1.6.BUILD-20191102.154723-17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

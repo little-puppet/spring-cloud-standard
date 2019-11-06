@@ -1,0 +1,7 @@
+
+dsquid:S11928"HDefine a constant instead of duplicating this literal "message" 3 times.(‹²³êþÿÿÿÿ
+:squid:S1148<"#Use a logger to log this exception.(Ç’Çê
+:squid:S1148@"#Use a logger to log this exception.(Ç’Çê
+:squid:S1148P"#Use a logger to log this exception.(Éïèê
+³%squid:RedundantThrowsDeclarationCheck,"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(ÏÇäýÿÿÿÿÿ
+Bsquid:S14814"+Remove this unused "result" local variable.(àý¿Õ

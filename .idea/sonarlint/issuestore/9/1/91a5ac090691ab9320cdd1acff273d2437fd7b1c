@@ -1,0 +1,7 @@
+
+gsquid:UselessImportCheck"7Remove this unused import 'org.redisson.config.Config'.(×«àİùÿÿÿÿ8¯á®†ã-
+nsquid:UselessImportCheck	"CRemove this unused import 'org.springframework.cache.CacheManager'.(÷ë¿Û8Ô˜Œã-
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8‰ÁÛ†ã-
+squid:UselessImportCheck"XRemove this unused import 'org.springframework.cloud.netflix.eureka.EnableEurekaClient'.(´÷ÎÉüÿÿÿÿ
+bsquid:UselessImportCheck"2Remove this unused import 'org.redisson.Redisson'.(ĞÈ›Ùùÿÿÿÿ8¯á®†ã-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¯á®†ã-
