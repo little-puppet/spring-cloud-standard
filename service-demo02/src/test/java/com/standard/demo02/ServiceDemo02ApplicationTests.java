@@ -12,13 +12,14 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.data.redis.core.StringRedisTemplate;
 
 @SpringBootTest
-class ServiceDemo02ApplicationTests {
+@RunWith(SpringRunner.class)
+public class ServiceDemo02ApplicationTests {
 
     @Autowired
     private Demo01 demo01;
 
     @Test
-    void contextLoads() {
+    public void contextLoads() {
     }
 
     @Autowired

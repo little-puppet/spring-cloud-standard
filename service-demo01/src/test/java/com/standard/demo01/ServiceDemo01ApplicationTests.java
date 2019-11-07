@@ -13,8 +13,8 @@ import org.springframework.data.redis.core.StringRedisTemplate;
 import java.util.logging.Logger;
 
 @SpringBootTest
-
-class ServiceDemo01ApplicationTests {
+@RunWith(SpringRunner.class)
+public class ServiceDemo01ApplicationTests {
 
     @Autowired
     private Demo01 service01;
@@ -22,7 +22,7 @@ class ServiceDemo01ApplicationTests {
 
 
     @Test
-    void contextLoads() {
+    public void contextLoads() {
     }
 
 
