@@ -22,7 +22,7 @@
         <mybatis-pluss.version>3.2.0</mybatis-pluss.version>
         <swagger2.version>2.9.2</swagger2.version>
         <swagger-bootstrap-ui.version>1.9.6</swagger-bootstrap-ui.version>
-        <fastJson.version>1.2.60</fastJson.version>
+        <fastJson.version>1.2.83</fastJson.version>
         <druid.version>1.1.10</druid.version>
         <lang3.version>3.9</lang3.version>
         <common-io.version>2.6</common-io.version>
